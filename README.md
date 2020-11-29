@@ -12,7 +12,7 @@ A curated list of Vector Autoregression resources.
 -   [R](#r)
     -   [CRAN](#cran)
     -   [Github](#github)
--   [Other](#other)
+-   [Other Software](#other)
 -   [Courses](#courses)
 -   [Blogs:](#blogs)
 -   [Other](#other-1)
@@ -155,7 +155,7 @@ F. Sindermann,
 
 -   `rbvar`: Robust Bayesian VAR <https://github.com/jetroant/rbsvar>
 
-# Other
+# Other Software
 
 ### Python
 
