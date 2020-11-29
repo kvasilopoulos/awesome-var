@@ -108,7 +108,7 @@ https://github.com/wvanwie/ragt2ridges
 - `GediminasB/bayesVAR_TVP`: R/C++ implementation of Bayes VAR models https://github.com/GediminasB/bayesVAR_TVP
 - `rbvar`: Robust Bayesian VAR [https://github.com/jetroant/rbsvar](https://github.com/jetroant/rbsvar)
 
-# Other
+# Other Software
 
 ### Python
 - [statsmodel](https://www.statsmodels.org/dev/vector_ar.html) 
