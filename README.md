@@ -1,25 +1,37 @@
+Awesome VAR
+================
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-<style>
-btn {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 8px 12px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 12px;
-  border-radius: 16px;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
-}
-</style>
-
-# Awesome VAR
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A curated list of Vector Autoregression resources.
+
+**Table of Contents:**
+
+-   [MATLAB](#matlab)
+-   [R](#r)
+    -   [CRAN](#cran)
+    -   [Github](#github)
+-   [Other](#other)
+-   [Courses](#courses)
+-   [Blogs:](#blogs)
+-   [Other](#other-1)
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- <style> -->
+<!-- btn { -->
+<!--   background-color: #4CAF50; /* Green */ -->
+<!--   border: none; -->
+<!--   color: white; -->
+<!--   padding: 8px 12px; -->
+<!--   text-align: center; -->
+<!--   text-decoration: none; -->
+<!--   display: inline-block; -->
+<!--   font-size: 12px; -->
+<!--   border-radius: 16px; -->
+<!--   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); -->
+<!-- } -->
+<!-- </style> -->
 
 # MATLAB
 
