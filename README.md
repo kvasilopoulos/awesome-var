@@ -64,6 +64,15 @@ Table of Contents:
 - [tsDyn](http://github.com/MatthieuStigler/tsDyn/wiki): Nonlinear Time Series Models with Regime Switching
 - [GVARX](https://cran.r-project.org/web/packages/GVARX/index.html): Perform Global Vector Autoregression Estimation and Inference     
 - [lpirfs](https://github.com/adaemmerp/lpirfs/): Local Projections Impulse Response Functions
+- [BGVAR](https://cran.r-project.org/web/packages/BGVAR/index.html): Bayesian Global Vector Autoregressions
+- [hdiVAR](https://cran.r-project.org/web/packages/hdiVAR/index.html): Statistical Inference for Noisy Vector Autoregression
+- [BVARverse](https://github.com/nk027/BVARverse): Tidy Bayesian Vector Autoregression
+- [GVARX](https://cran.r-project.org/web/packages/GVARX/index.html): Perform Global Vector Autoregression Estimation and Inference
+- [VARshrink](https://github.com/namgillee/VARshrink/): Shrinkage Estimation Methods for Vector Autoregressive Models
+- [onlineVAR](https://cran.r-project.org/web/packages/onlineVAR/index.html): Online Fitting of Time-Adaptive Lasso Vector Auto Regression
+- [VARtests](https://cran.r-project.org/web/packages/VARtests/index.html):	Tests for Error Autocorrelation, ARCH Errors, and Cointegration in Vector Autoregressive Models
+- [StVAR](https://cran.r-project.org/web/packages/StVAR/index.html): Student's t Vector Autoregression (StVAR)
+
 
 ### Github
 
@@ -81,22 +90,19 @@ Table of Contents:
 - [statsmodel](https://www.statsmodels.org/dev/vector_ar.html): Vector Autoregressions 
 - [VARSMA](https://github.com/dnguyend/VARsMA): Vector Autoregressive with scalar Moving Average Model
 
-
 ### Julia
 - [VectorAutoregressions.jl](https://github.com/lucabrugnolini/VectorAutoregressions.jl): Vector autoregressive models for Julia
 
-
-
 ### Stata:
-- [Panel VAR estimation](https://sites.google.com/a/hawaii.edu/inessalove/home/pvar) (Inessa
+- [Panel VAR estimation](https://sites.google.com/a/hawaii.edu/inessalove/home/pvar)(Inessa
     Love). 
+    
 ### C++
 -   [tsf_var](https://github.com/fylux/tsf_var): Analyze and forecast time series using VAR models.
+
 ### Eviews
 -  [Manual](http://www.eviews.com/help/helpintro.html#page/content%2FVAR-Vector_Autoregression_and_Error_Correction_Model.html%23): Vector Autoregression And Error Correction Models
 -  [StructVAR](http://www.eviews.com/StructVAR/structvar.html)Quantitative Macroeconomic Modelling with Structural Vector Autogregressions
-
-<!-- # Courses -->
 
 # Uncategorized
 
