@@ -77,6 +77,10 @@ Table of Contents:
 -   [VARtests](https://cran.r-project.org/web/packages/VARtests/index.html): Tests for Error Autocorrelation, ARCH Errors, and Cointegration in Vector Autoregressive Models
 -   [StVAR](https://cran.r-project.org/web/packages/StVAR/index.html): Student's t Vector Autoregression (StVAR)
 -   [MTS](https://cran.r-project.org/web/packages/MTS/index.html): All-Purpose Toolkit for Analyzing Multivariate Time Series (MTS) and Estimating Multivariate Volatility Models
+-   [multivar](https://cran.rstudio.com/web/packages/multivar/index.html): Penalized Estimation of Multiple-Subject Vector Autoregressive (multi-VAR) Models
+-   [mlVAR](https://cran.r-project.org/web/packages/mlVAR/index.html): Multi-Level Vector Autoregression
+-   [FCVAR](https://cran.r-project.org/web/packages/FCVAR/index.html): Estimation and Inference for the Fractionally Cointegrated VAR
+-   [bigtime](https://cran.r-project.org/web/packages/bigtime/index.html): Sparse Estimation of Large Time Series Models 
 
 ### Github
 
