@@ -88,6 +88,7 @@ Table of Contents:
 -   [bvars](https://github.com/joergrieger/bvars): Bayesian Vector Autoregression
 -   [bvarrKK](https://github.com/bdemeshev/bvarrKK): Translation Of Koop And Korobilis BVAR Matlab Code Into RbvarrKK
 -   [bvarr](https://github.com/bdemeshev/bvarr): R package for bayesian VARs
+-   [bsvars](https://github.com/donotdespair/bsvars): Bayesian Estimation of Structural Vector Autoregressive Models
 -   [BMR](https://github.com/kthohr/BMR): Bayesian Macroeconometrics in R
 -   [bayesVAR_TVP](https://github.com/GediminasB/bayesVAR_TVP): R/C++ implementation of Bayes VAR models
 -   [Large-TVP-VAR](https://github.com/Reckziegel/Large-TVP-VAR): Large Time-Varying Parameter VAR
