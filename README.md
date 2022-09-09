@@ -57,6 +57,7 @@ Table of Contents:
 -   [VARsignR](https://cran.r-project.org/web/packages/VARsignR/index.html): Sign Restrictions, Bayesian, Vector Autoregression Models
 -   [svars](https://cran.r-project.org/web/packages/svars/index.html): Data-Driven Identification of SVAR Models
 -   [bvarsv](https://cran.r-project.org/web/packages/bvarsv/index.html): Bayesian Analysis of a Vector Autoregressive Model with Stochastic Volatility and Time-Varying Parameters
+-   [bsvars](https://github.com/donotdespair/bsvars): Bayesian Estimation of Structural Vector Autoregressive Models
 -   [bvartools](https://github.com/franzmohr/bvartools): Functions for Bayesian inference of vector autoregressive models
 -   [BVAR](https://github.com/nk027/bvar): Hierarchical Bayesian Vector Autoregression
 -   [mfbvar](https://github.com/ankargren/mfbvar): Mixed-Frequency Bayesian VARs
@@ -88,7 +89,6 @@ Table of Contents:
 -   [bvars](https://github.com/joergrieger/bvars): Bayesian Vector Autoregression
 -   [bvarrKK](https://github.com/bdemeshev/bvarrKK): Translation Of Koop And Korobilis BVAR Matlab Code Into RbvarrKK
 -   [bvarr](https://github.com/bdemeshev/bvarr): R package for bayesian VARs
--   [bsvars](https://github.com/donotdespair/bsvars): Bayesian Estimation of Structural Vector Autoregressive Models
 -   [BMR](https://github.com/kthohr/BMR): Bayesian Macroeconometrics in R
 -   [bayesVAR_TVP](https://github.com/GediminasB/bayesVAR_TVP): R/C++ implementation of Bayes VAR models
 -   [Large-TVP-VAR](https://github.com/Reckziegel/Large-TVP-VAR): Large Time-Varying Parameter VAR
