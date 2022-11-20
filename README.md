@@ -83,7 +83,7 @@ Table of Contents:
 -   [bigtime](https://cran.r-project.org/web/packages/bigtime/index.html): Sparse Estimation of Large Time Series Models 
 -   [starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models Estimation and Prediction
 -   [FAVAR](https://cran.r-project.org/web/packages/FAVAR/index.html): Bayesian Analysis of a FAVAR Model
--   [lpirfs](https://cran.r-project.org/web/packages/lpirfs/index.html): https://cran.r-project.org/web/packages/lpirfs/index.html
+-   [lpirfs](https://cran.r-project.org/web/packages/lpirfs/index.html): Local Projections Impulse Response Functions
 
 
 ### Github
