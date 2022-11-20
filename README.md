@@ -72,7 +72,6 @@ Table of Contents:
 -   [BGVAR](https://cran.r-project.org/web/packages/BGVAR/index.html): Bayesian Global Vector Autoregressions
 -   [hdiVAR](https://cran.r-project.org/web/packages/hdiVAR/index.html): Statistical Inference for Noisy Vector Autoregression
 -   [BVARverse](https://github.com/nk027/BVARverse): Tidy Bayesian Vector Autoregression
--   [GVARX](https://cran.r-project.org/web/packages/GVARX/index.html): Perform Global Vector Autoregression Estimation and Inference
 -   [VARshrink](https://github.com/namgillee/VARshrink/): Shrinkage Estimation Methods for Vector Autoregressive Models
 -   [onlineVAR](https://cran.r-project.org/web/packages/onlineVAR/index.html): Online Fitting of Time-Adaptive Lasso Vector Auto Regression
 -   [VARtests](https://cran.r-project.org/web/packages/VARtests/index.html): Tests for Error Autocorrelation, ARCH Errors, and Cointegration in Vector Autoregressive Models
@@ -82,6 +81,10 @@ Table of Contents:
 -   [mlVAR](https://cran.r-project.org/web/packages/mlVAR/index.html): Multi-Level Vector Autoregression
 -   [FCVAR](https://cran.r-project.org/web/packages/FCVAR/index.html): Estimation and Inference for the Fractionally Cointegrated VAR
 -   [bigtime](https://cran.r-project.org/web/packages/bigtime/index.html): Sparse Estimation of Large Time Series Models 
+-   [starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models Estimation and Prediction
+-   [FAVAR](https://cran.r-project.org/web/packages/FAVAR/index.html): Bayesian Analysis of a FAVAR Model
+-   [lpirfs](https://cran.r-project.org/web/packages/lpirfs/index.html): https://cran.r-project.org/web/packages/lpirfs/index.html
+
 
 ### Github
 
