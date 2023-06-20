@@ -64,7 +64,6 @@ Table of Contents:
 -   [ragt2ridges](https://github.com/wvanwie/ragt2ridges): Ridge Estimation of Vector Auto-Regressive (VAR) Processes
 -   [BHSBVAR](https://cran.r-project.org/web/packages/BHSBVAR/index.html): Structural Bayesian Vector Autoregression Models
 -   [panelvar](https://cran.r-project.org/web/packages/panelvar/index.html): Panel Vector Autoregression
--   [BGVAR](https://cran.r-project.org/web/packages/BGVAR/): Bayesian Global Vector Autoregressions
 -   [gmvarkit](https://cran.r-project.org/web/packages/gmvarkit/index.html): Estimate Gaussian Mixture Vector Autoregressive Model
 -   [tsDyn](http://github.com/MatthieuStigler/tsDyn/wiki): Nonlinear Time Series Models with Regime Switching
 -   [GVARX](https://cran.r-project.org/web/packages/GVARX/index.html): Perform Global Vector Autoregression Estimation and Inference
@@ -84,6 +83,8 @@ Table of Contents:
 -   [starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models Estimation and Prediction
 -   [FAVAR](https://cran.r-project.org/web/packages/FAVAR/index.html): Bayesian Analysis of a FAVAR Model
 -   [lpirfs](https://cran.r-project.org/web/packages/lpirfs/index.html): Local Projections Impulse Response Functions
+-   [LSVAR[(https://cran.r-project.org/web/packages/LSVAR/index.html): Estimation of Low Rank Plus Sparse Structured Vector Auto-Regressive (VAR) Model
+
 
 
 ### Github
