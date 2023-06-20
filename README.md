@@ -83,8 +83,8 @@ Table of Contents:
 -   [starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models Estimation and Prediction
 -   [FAVAR](https://cran.r-project.org/web/packages/FAVAR/index.html): Bayesian Analysis of a FAVAR Model
 -   [lpirfs](https://cran.r-project.org/web/packages/lpirfs/index.html): Local Projections Impulse Response Functions
--   [LSVAR[(https://cran.r-project.org/web/packages/LSVAR/index.html): Estimation of Low Rank Plus Sparse Structured Vector Auto-Regressive (VAR) Model
-
+-   [LSVAR](https://cran.r-project.org/web/packages/LSVAR/index.html): Estimation of Low Rank Plus Sparse Structured Vector Auto-Regressive (VAR) Model
+-   [BigVAR](https://cran.r-project.org/web/packages/BigVAR/index.html): Dimension Reduction Methods for Multivariate Time Series
 
 
 ### Github
@@ -97,6 +97,7 @@ Table of Contents:
 -   [bayesVAR_TVP](https://github.com/GediminasB/bayesVAR_TVP): R/C++ implementation of Bayes VAR models
 -   [Large-TVP-VAR](https://github.com/Reckziegel/Large-TVP-VAR): Large Time-Varying Parameter VAR
 -   [rbvar](https://github.com/jetroant/rbsvar): Robust Bayesian VAR
+-   [varexternal](https://github.com/martinbaumgaertner/varexternal/): Vector Autoregressive Model with an External Instrument in R
 
 # Other Software
 
@@ -104,6 +105,7 @@ Table of Contents:
 
 -   [statsmodel](https://www.statsmodels.org/dev/vector_ar.html): Vector Autoregressions
 -   [VARSMA](https://github.com/dnguyend/VARsMA): Vector Autoregressive with scalar Moving Average Model
+-   [Kats](https://facebookresearch.github.io/Kats/api/kats.models.var.html): One stop shop for time series analysis in Python
 
 ### Julia
 
